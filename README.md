@@ -1,4 +1,4 @@
-#Молния (The lightning) - Unity3d version: 5.3.5
+#Молния (The lightning)
 
 ---
  
